@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+*.txt
+*.log
+node_modules
+dist/*.js
+demo/*.js
+docs
+.idea/*
+=======
+.DS_Store
+material/
+node_modules/
+/*lib/*.js*/
+npm-debug.log
+>>>>>>> upstream/master
